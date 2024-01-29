@@ -35,7 +35,7 @@ protected:
 
 private:
 	UPROPERTY(VisibleAnywhere, Category = "Components")
-	class USpringArmComponent* SpringArm;
+	class USpringArmComponent* SpringArm; 
 
 	UPROPERTY(VisibleAnywhere, Category = "Components")
 	class UCameraComponent* Camera;
